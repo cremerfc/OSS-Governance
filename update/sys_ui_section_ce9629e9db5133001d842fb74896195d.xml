@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ce9629e9db5133001d842fb74896195d" sys_domain="global" table="x_77303_oss_govern_iq_violations" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 17:24:54</sys_created_on>
+            <sys_id>869629e9db5133001d842fb748961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 17:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy_summary</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 17:24:54</sys_created_on>
+            <sys_id>8e9629e9db5133001d842fb748961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 17:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>component_implicated</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 17:24:54</sys_created_on>
+            <sys_id>029629e9db5133001d842fb748961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 17:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>application</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 17:26:40</sys_created_on>
+            <sys_id>bff6ade9db5133001d842fb74896191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 17:26:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reasons</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 17:40:57</sys_created_on>
+            <sys_id>414a612ddb5133001d842fb74896198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 17:40:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>threat_level</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 17:41:31</sys_created_on>
+            <sys_id>d96a696ddb5133001d842fb74896196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 17:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy_hash</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-10 01:33:17</sys_created_on>
+            <sys_id>39ff5c42db9173001d842fb748961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-10 01:33:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_seen</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-10 01:33:18</sys_created_on>
+            <sys_id>39ff5c42db9173001d842fb748961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-10 01:33:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>violation_hash</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-10 14:51:23</sys_created_on>
+            <sys_id>78a6978edb1973001d842fb74896194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-10 14:51:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>non_vulnerable_version</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-13 00:18:41</sys_created_on>
+            <sys_id>deab63fedb55f3001d842fb74896194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_oss_govern_iq_violations" sys_domain="global" view="Default view">ce9629e9db5133001d842fb74896195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-13 00:18:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_77303_oss_govern_iq_violations</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 17:24:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce9629e9db5133001d842fb74896195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_77303_oss_govern_iq_violations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="OSS Governance" source="x_77303_oss_govern">79793fd6dbc933001d842fb74896191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OSS Governance">79793fd6dbc933001d842fb74896191d</sys_scope>
+            <sys_update_name>sys_ui_section_ce9629e9db5133001d842fb74896195d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 17:24:54</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

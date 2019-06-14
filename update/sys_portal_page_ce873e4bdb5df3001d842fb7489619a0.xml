@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-06-14 00:27:43">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-13 15:09:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce873e4bdb5df3001d842fb7489619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Sample Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OSS Governance" source="x_77303_oss_govern">79793fd6dbc933001d842fb74896191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OSS Governance">79793fd6dbc933001d842fb74896191d</sys_scope>
+        <sys_update_name>sys_portal_page_ce873e4bdb5df3001d842fb7489619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-13 15:09:43</sys_updated_on>
+        <title>My Sample Page</title>
+        <user/>
+        <view/>
+    </sys_portal_page>
+</record_update>

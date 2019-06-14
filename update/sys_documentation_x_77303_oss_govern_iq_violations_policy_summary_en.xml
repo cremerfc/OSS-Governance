@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="policy_summary" label="Policy Summary" language="en" table="x_77303_oss_govern_iq_violations">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>policy_summary</element>
+            <help/>
+            <hint/>
+            <label>Policy Summary</label>
+            <language>en</language>
+            <name>x_77303_oss_govern_iq_violations</name>
+            <plural>Policy Summaries</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 14:38:14</sys_created_on>
+            <sys_id>ac700125db1133001d842fb74896197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Policy Summary</sys_name>
+            <sys_package display_value="OSS Governance" source="x_77303_oss_govern">79793fd6dbc933001d842fb74896191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OSS Governance">79793fd6dbc933001d842fb74896191d</sys_scope>
+            <sys_update_name>sys_documentation_x_77303_oss_govern_iq_violations_policy_summary_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 14:38:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

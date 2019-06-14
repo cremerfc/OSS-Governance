@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_77303_oss_govern.iq_policies_user" name="x_77303_oss_govern.iq_policies_user">37ed3861db1133001d842fb74896192f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 14:27:15</sys_created_on>
+        <sys_id>7fed3861db1133001d842fb748961931</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>37ed3861db1133001d842fb74896192f</sys_name>
+        <sys_package display_value="OSS Governance" source="x_77303_oss_govern">79793fd6dbc933001d842fb74896191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OSS Governance">79793fd6dbc933001d842fb74896191d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7fed3861db1133001d842fb748961931</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 14:27:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

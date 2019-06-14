@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="application_name" label="Application Name" language="en" table="x_77303_oss_govern_iq_applications">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>application_name</element>
+            <help/>
+            <hint/>
+            <label>Application Name</label>
+            <language>en</language>
+            <name>x_77303_oss_govern_iq_applications</name>
+            <plural>Application Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-29 01:59:07</sys_created_on>
+            <sys_id>b86cbf9adbc933001d842fb74896191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Application Name</sys_name>
+            <sys_package display_value="OSS Governance" source="x_77303_oss_govern">79793fd6dbc933001d842fb74896191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OSS Governance">79793fd6dbc933001d842fb74896191d</sys_scope>
+            <sys_update_name>sys_documentation_x_77303_oss_govern_iq_applications_application_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-29 01:59:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

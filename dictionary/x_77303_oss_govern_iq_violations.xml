@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IQ Violations" max_length="40" name="x_77303_oss_govern_iq_violations" type="collection">
+        <element label="Application" max_length="32" name="application" reference="x_77303_oss_govern_iq_applications" type="reference"/>
+        <element label="Component Implicated" max_length="32" name="component_implicated" reference="x_77303_oss_govern_iq_component" type="reference"/>
+        <element label="Last Seen" max_length="40" name="last_seen" type="glide_date_time"/>
+        <element label="Compliant Version" max_length="255" name="non_vulnerable_version" type="string"/>
+        <element label="Policy" max_length="32" name="policy" reference="x_77303_oss_govern_iq_policies" type="reference"/>
+        <element label="Policy Summary" max_length="255" name="policy_summary" type="string"/>
+        <element label="Reasons" max_length="255" name="reasons" type="string_full_utf8"/>
+        <element label="Threat Level" max_length="40" name="threat_level" type="integer"/>
+        <element label="Violation Hash" max_length="40" name="violation_hash" type="string"/>
+        <index name="index">
+            <element name="application"/>
+        </index>
+        <index name="index2">
+            <element name="component_implicated"/>
+        </index>
+        <index name="index3">
+            <element name="policy"/>
+        </index>
+    </element>
+</database>

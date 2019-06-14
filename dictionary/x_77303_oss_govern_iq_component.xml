@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IQ Component" max_length="40" name="x_77303_oss_govern_iq_component" type="collection">
+        <element display="true" label="Display Name" max_length="225" name="display_name" type="string"/>
+        <element label="Hash" max_length="225" name="hash" type="string"/>
+        <element dependent="sys_id" dependent_on_field="sys_id" label="New Reference" max_length="32" name="u_reference_1" reference="x_77303_oss_govern_iq_applications" type="reference" use_dependent_field="true"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 18:53:03</sys_created_on>
+        <sys_id>1321b09ddb1133001d842fb7489619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_77303_oss_govern_iq_component.x_77303_oss_govern.iq_component_user</sys_name>
+        <sys_package display_value="OSS Governance" source="x_77303_oss_govern">79793fd6dbc933001d842fb74896191d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OSS Governance">79793fd6dbc933001d842fb74896191d</sys_scope>
+        <sys_security_acl display_value="x_77303_oss_govern_iq_component">5721b09ddb1133001d842fb7489619c0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1321b09ddb1133001d842fb7489619c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 18:53:03</sys_updated_on>
+        <sys_user_role display_value="x_77303_oss_govern.iq_component_user" name="x_77303_oss_govern.iq_component_user">8321b09ddb1133001d842fb74896197d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

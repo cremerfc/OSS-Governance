@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IQ Applications" max_length="40" name="x_77303_oss_govern_iq_applications" type="collection">
+        <element label="Application ID" max_length="40" name="application_id" type="string"/>
+        <element display="true" label="Application Name" max_length="40" name="application_name" type="string"/>
+        <element label="Organization" max_length="32" name="organizationid" reference="x_77303_oss_govern_iq_organization" type="reference"/>
+        <element label="Public ID" max_length="40" name="public_id" type="string"/>
+        <index name="index">
+            <element name="organizationid"/>
+        </index>
+    </element>
+</database>

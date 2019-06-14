@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IQ Policies" max_length="40" name="x_77303_oss_govern_iq_policies" type="collection">
+        <element label="Policy ID" max_length="25" name="policy_id" type="string"/>
+        <element display="true" label="Policy Name" max_length="50" name="policy_name" type="string"/>
+        <element label="Threat Level" max_length="40" name="threat_level" type="integer"/>
+    </element>
+</database>
